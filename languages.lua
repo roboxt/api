@@ -61,7 +61,7 @@ end
 
 local locale = {} -- table with exported functions
 
-locale.language = 'fa' -- default language
+locale.language = 'en' -- default language
 
 function locale.init(directory)
 	directory = directory or "locales"
