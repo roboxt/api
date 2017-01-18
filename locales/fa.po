@@ -1,12 +1,12 @@
-# Persian translations for GroupButler package.
+# Persian translations for XtBot package.
 # Copyright (C) 2016 THE GroupButler'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the GroupButler package.
 # Nicholas Guriev <guriev-ns@ya.ru>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GroupButler 4.0\n"
-"Report-Msgid-Bugs-To: https://telegram.me/bac0nnn\n"
+"Project-Id-Version: XtBot 4.0\n"
+"Report-Msgid-Bugs-To: https://telegram.me/shahin_xtbot\n"
 "POT-Creation-Date: 2016-12-08 07:54+0100\n"
 "PO-Revision-Date: 2016-12-08 18:46+0330\n"
 "Last-Translator: Nicholas Guriev <guriev-ns@ya.ru>\n"
@@ -508,7 +508,7 @@ msgid ""
 msgstr ""
 "\n"
 "سلام %s 👋, از دیدنت خوشحالم!\n"
-"من Group Butler اولین ربات مدیریت گروه API هستم.\n"
+"من XtBot اولین ربات مدیریت گروه API هستم.\n"
 "\n"
 "من میتوانید کارهای خارق العاده زیادی بکنم، اینجا لیست کوتاهی را میبینید:\n"
 "• من میتوانم کاربران را از گروه اخراج یا در گروه مسدود کنم\n"
