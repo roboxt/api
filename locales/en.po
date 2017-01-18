@@ -1,12 +1,12 @@
-# English translations for GroupButler package.
-# Copyright (C) 2016 THE GroupButler'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the GroupButler package.
+# English translations for Xtbot package.
+# Copyright (C) 2016 THE Xtbot COPYRIGHT HOLDER
+# This file is distributed under the same license as the Xtbot package.
 # Nicholas Guriev <guriev-ns@ya.ru>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GroupButler 4.0\n"
-"Report-Msgid-Bugs-To: https://telegram.me/baconnn\n"
+"Project-Id-Version: XtBot 4.0\n"
+"Report-Msgid-Bugs-To: https://telegram.me/shahin_xtbot\n"
 "POT-Creation-Date: 2016-08-27 17:50+0300\n"
 "PO-Revision-Date: 2016-08-27 17:50+0300\n"
 "Last-Translator: Nicholas Guriev <guriev-ns@ya.ru>\n"
