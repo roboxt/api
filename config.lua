@@ -5,7 +5,7 @@ return {
 	db = 2, --default redis db: 0
 	superadmins = {186280031, 323031044},
 	log = {
-		chat = -1001089188566, --Your log chat, where your bot must be added!
+		chat = -1001065088935, --Your log chat, where your bot must be added!
 		admin = 186280031, --The admin.
 		stats = nil
 	},
@@ -22,9 +22,9 @@ return {
 		realm_max_members = 60,
 		realm_max_subgroups = 6
 	},
-	channel = '@groupbutler_beta', --channel username with the '@'
+	channel = '@robosaz_xt', --channel username with the '@'
 	source_code = 'https://github.com/roboxt/api/tree/beta',
-	help_groups_link = 'telegram.me/GBgroups',
+	help_groups_link = 'telegram.me/Down_XtBot',
 	plugins = {
 		'onmessage', --THIS MUST BE THE FIRST: IF AN USER IS FLOODING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
 		'antispam', --SAME OF onmessage.lua
