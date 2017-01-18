@@ -2225,7 +2225,7 @@ msgstr "_S'il te plaît, envoie-moi d'abord un message que je puisse t'écrire_"
 #~ "*Remarque*: le Markdown est supporté. Si le texte envoyé contient des "
 #~ "erreurs de Markdown, le bot notifiera que quelque chose est faux.\n"
 #~ "Pour une utilisation correcte du Markdown, regarde [ce poste] (https://"
-#~ "telegram.me/GroupButler_ch/46) dans le channel anglais"
+#~ "telegram.me/robosaz_xt/46) dans le channel anglais"
 
 #, fuzzy
 #~ msgid ""
