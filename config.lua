@@ -1,5 +1,5 @@
 return {
-	bot_api_key = "211738311:AAGosJwDCzzOK6VS7Inp6VroK2raoSWZNOs", --Please add your bot api key here!
+	bot_api_key = "211738311:AAHDkbJXAhx9-5aBW_GlxqO0hx3xPGEBPi4", --Please add your bot api key here!
 	cmd = '^[/!#]',
 	allowed_updates = {"message", "edited_message", "callback_query"},
 	db = 2, --default redis db: 0
@@ -24,7 +24,7 @@ return {
 	},
 	channel = '@robosaz_xt', --channel username with the '@'
 	source_code = 'https://github.com/roboxt/api/tree/beta',
-	help_groups_link = 'telegram.me/Down_XtBot',
+	help_groups_link = 'telegram.me/Music_Bandxt_bot',
 	plugins = {
 		'onmessage', --THIS MUST BE THE FIRST: IF AN USER IS FLOODING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
 		'antispam', --SAME OF onmessage.lua
