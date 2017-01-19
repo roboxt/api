@@ -4,9 +4,9 @@ make_template() {
 	find . -name "*.lua" | sort |
 		xgettext --from-code=utf-8 \
 			--add-comments=TRANSLATORS \
-			--package-name=GroupButler \
+			--package-name=api \
 			--package-version=4.2 \
-			--msgid-bugs-address=https://telegram.me/bac0nnn \
+			--msgid-bugs-address=https://telegram.me/shahin_xtbot \
 			--force-po \
 			--files-from=/dev/stdin \
 			--output=/dev/stdout
