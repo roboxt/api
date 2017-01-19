@@ -13,8 +13,8 @@ else
     
     echo -e "\e[1;36mInstalling LuaRocks from sources\e[0m"
     
-    git clone http://github.com/roboxt/apixt
-    cd apixt
+    git clone http://github.com/keplerproject/luarocks
+    cd luarocks
     ./configure --lua-version=5.2
     make build
     sudo make install
@@ -24,7 +24,7 @@ else
     
     rocks="luasocket luasec redis-lua lua-term serpent dkjson Lua-cURL"
     for rock in $rocks; do
-        sudo apixt install $rock
+        sudo luarocks install $rock
     done
         
     branch="master"
@@ -35,7 +35,7 @@ else
     fi
     
     echo -e "\e[1;36mFetching latest Group Butler source code (branch: $branch)\e[0m"
-    git clone -b $branch https://github.com/roboxt/api.git
+    git clone -b $branch https://github.com/RememberTheAir/GroupButler.git
     
     echo -e "\e[1;32mGroup Butler successfully installed! Change values in config file and run ./launch.sh\e[0m"
     echo " "
